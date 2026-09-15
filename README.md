@@ -1,6 +1,6 @@
 # ✈️ Multi-Destination Trip Budget Planner
 
-## What It Is
+## What is it?
 A command-line program that helps you figure out whether a multi-stop trip is affordable. You enter your total budget, then add as many destinations as you like, each with its own transportation, accommodation, food, and entertainment costs, and the program totals everything up and tells you whether you're under, over, or exactly on budget.
 
 ## Technologies Involved
