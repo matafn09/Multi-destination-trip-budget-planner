@@ -47,6 +47,6 @@ The program is built around three functions, each with one job:
 
 ## Demo Video
 
-<img src="https://raw.githubusercontent.com/matafn09/Multi-destination-trip-budget-planner/main/Budget-trip-planner-vid.mp4" width="600" alt="Trip budget planner">
+<img src="https://raw.githubusercontent.com/matafn09/Multi-destination-trip-budget-planner/main/Budget-trip-planner-video.gif" width="600" alt="Trip budget planner">
 ---
 ⭐️ A project by [Fernand Mata](https://github.com/matafn09)
