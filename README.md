@@ -46,7 +46,7 @@ The program is built around three functions, each with one job:
 4. Follow the prompts: enter your budget, then add destinations one at a time.
 
 ## Demo Video
-_(Video coming soon)_
 
+<img src="https://raw.githubusercontent.com/matafn09/Multi-destination-trip-budget-planner/main/Budget-trip-planner-vid.mp4" width="600" alt="Trip budget planner">
 ---
 ⭐️ A project by [Fernand Mata](https://github.com/matafn09)
